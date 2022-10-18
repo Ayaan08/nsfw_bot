@@ -1,10 +1,10 @@
 {
-    "token":"bottokenhere",
-    "prefix":"botprefixhere",
-    "author_dc":"onemanbuilds#2108",
+    "token":"MTAyOTMwMjgxMzU1MDk4OTM2Mg.G7wD7U.KKTjb5zx5Din-4a-_rk0yOkhRkWrgBeTKjeaOk",
+    "prefix":"?",
+    "author_dc":"PAAPI",
     "author_dc_server":"https://discord.gg/33UzcuY",
-    "embed_footer_message":"MADE BY ONEMANBUILDS",
-    "icon_url":"https://media.discordapp.net/attachments/761523809819820036/762280255770853396/github_onemanbuilds.png",
+    "embed_footer_message":"MADE BY Pappi",
+    "icon_url":"https://cdn.discordapp.com/avatars/851399879539687434/c4de505c376e2a3482f8d953790db659.png",
     "reddit_app_client_id":"redditappclientidhere",
     "reddit_praw_useragent":"redditprawappuseragenthere"
 }
